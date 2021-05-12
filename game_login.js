@@ -76,4 +76,5 @@ function check(){
         answer_turn= "player1"
         document.getElementById("player_answer").innerHTML = "Answer Turn - " + player1_name;
     }
+    document.getElementById("output").innerHTML= "";
 }
